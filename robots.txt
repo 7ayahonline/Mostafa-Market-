@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://7ayahonline.github.io/Mostafa-Market/sitemap.xml
